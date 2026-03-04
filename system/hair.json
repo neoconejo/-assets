@@ -1,0 +1,26 @@
+[
+  {
+    "id": "hair_1",
+    "nombre": "Peinado Diva",
+    "precio": 150,
+    "imagen": "system/hair/hair_1.webp"
+  },
+  {
+    "id": "hair_2",
+    "nombre": "Ondas Naturales",
+    "precio": 200,
+    "imagen": "system/hair/hair_2.webp"
+  },
+  {
+    "id": "hair_3",
+    "nombre": "Coleta Rebelde",
+    "precio": 100,
+    "imagen": "system/hair/hair_3.webp"
+  },
+  {
+    "id": "hair_4",
+    "nombre": "Corte Pixie",
+    "precio": 300,
+    "imagen": "system/hair/hair_4.webp"
+  }
+]
