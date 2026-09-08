@@ -162,7 +162,7 @@
           "id": "alf_coat_03",
           "name": "Breezy Hibiscus Duste",
           "cat": "coat",
-          "anchor": {"x": 242, "y": 455, "w": 563, "h": 1247 },
+          "anchor": {"x": 242, "y": 455, "w": 563, "h": 1247 }
           "estrellas": 3,
           "probability": 1.5,
           "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_three/abrigo.png"
