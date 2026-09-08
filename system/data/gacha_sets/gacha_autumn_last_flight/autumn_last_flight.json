@@ -141,7 +141,7 @@
           "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_three/hair.webp"
         },
         {
-          "id": "alf_hair_02",
+          "id": "alf_top_03",
           "name": "Golden Hibiscus Top",
           "cat": "top",
           "anchor": {"x": 462, "y": 420, "w": 251, "h": 246 },
@@ -150,7 +150,7 @@
           "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_three/top.png"
           },
         {
-          "id": "alf_hair_02",
+          "id": "alf_pants_03",
           "name": "Golden Hibiscus Bottom",
           "cat": "pants",
           "anchor": {"x": 448, "y": 820, "w": 246, "h": 213 },
@@ -159,7 +159,7 @@
           "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_three/bottoom.png"
           },
         {
-          "id": "alf_hair_02",
+          "id": "alf_coat_03",
           "name": "Breezy Hibiscus Duste",
           "cat": "coat",
           "anchor": {"x": 242, "y": 455, "w": 563, "h": 1247 },
