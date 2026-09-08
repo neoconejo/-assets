@@ -152,7 +152,7 @@
         {
           "id": "alf_pants_03",
           "name": "Golden Hibiscus Bottom",
-          "cat": "bottom",
+          "cat": "pants",
           "anchor": {"x": 448, "y": 820, "w": 246, "h": 213 },
           "estrellas": 3,
           "probability": 1.5,
@@ -165,7 +165,7 @@
           "anchor": {"x": 242, "y": 455, "w": 563, "h": 1247 },
           "estrellas": 3,
           "probability": 1.5,
-          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_three/abrigo.png"
+          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_three/abrigo.webp"
           }
       ],
       "decorations": [
