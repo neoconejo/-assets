@@ -83,7 +83,7 @@
           "name": "Midnight Frost",
           "cat": "dress",
           "anchor":{"x": 305, "y": 552, "w": 568, "h": 609},
-          "estrellas": 4.5,
+          "estrellas": 4,
           "probability": 1.0,
           "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_two_frozen_symphony/midnight_frost.webp"
         },
@@ -92,7 +92,7 @@
           "name": "Arctic Embrace",
           "cat": "hair",
           "anchor": {"x": 481, "y": 76, "w": 198, "h": 472},
-          "estrellas": 6.0,
+          "estrellas": 4,
           "probability": 1.5,
           "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_two_frozen_symphony/arctic_embrace.webp"
           },
@@ -120,7 +120,7 @@
           "id": "alf_dec_landscape_02",
           "name": "frozen symphony backroom",
           "cat": "background",
-          "estrellas": 5,
+          "estrellas": 4,
           "probability": 0.6,
           "img": "system/gachas_sets/gacha_autumn_last_flight/decor_set_two_frozen_symphony/frozen_symphony_backroom.webp"
         }
@@ -128,10 +128,56 @@
     },
     {
       "set_id": "autumn_set_three",
-      "set_name": "Set 3: Autumn Common",
-      "status": "inactive",
-      "clothes": [],
-      "decorations": []
+      "set_name": "Set 3: Tropic Sunset Glam",
+      "status": "active",
+      "clothes": [
+        {
+          "id": "alf_hair_03",
+          "name": "Golden Beach Waves",
+          "cat": "hair",
+          "anchor":{"x": 438, "y": 138, "w": 311, "h": 516 },
+          "estrellas": 3,
+          "probability": 1.0,
+          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_three/hair.webp"
+        },
+        {
+          "id": "alf_hair_02",
+          "name": "Golden Hibiscus Top",
+          "cat": "top",
+          "anchor": {"x": 462, "y": 420, "w": 251, "h": 246 },
+          "estrellas": 3,
+          "probability": 1.5,
+          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_three/top.png"
+          },
+        {
+          "id": "alf_hair_02",
+          "name": "Golden Hibiscus Bottom",
+          "cat": "pants",
+          "anchor": {"x": 448, "y": 820, "w": 246, "h": 213 },
+          "estrellas": 3,
+          "probability": 1.5,
+          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_three/bottoom.png"
+          },
+        {
+          "id": "alf_hair_02",
+          "name": "Breezy Hibiscus Duste",
+          "cat": "coat",
+          "anchor": {"x": 242, "y": 455, "w": 563, "h": 1247 },
+          "estrellas": 3,
+          "probability": 1.5,
+          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_three/abrigo.png"
+          }
+      ],
+      "decorations": [
+        {
+          "id": "alf_dec_landscape_03",
+          "name": "Tropical Sunset Beach",
+          "cat": "background",
+          "estrellas": 3,
+          "probability": 0.6,
+          "img": "system/gachas_sets/gacha_autumn_last_flight/decor_set_three/Tropical_Sunset_Beach.webp"
+        }
+      ]
     }
   ]
 }
