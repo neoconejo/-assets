@@ -135,7 +135,7 @@
           "id": "alf_hair_03",
           "name": "Golden Beach Waves",
           "cat": "hair",
-          "anchor":{"x": 438, "y": 138, "w": 311, "h": 516 },
+          "anchor": { "x": 438, "y": 141, "w": 310, "h": 512 },
           "estrellas": 3,
           "probability": 1.0,
           "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_three/hair.webp"
