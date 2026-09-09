@@ -152,7 +152,7 @@
         {
           "id": "alf_pants_03",
           "name": "Golden Hibiscus Bottom",
-          "cat": "pants",
+          "cat": "bottom",
           "anchor": {"x": 448, "y": 820, "w": 246, "h": 213 },
           "estrellas": 3,
           "probability": 1.5,
